@@ -1,1 +1,2 @@
-# helloworld
+Hello
+my names is Adam Mohmaed i ama new to this feild ..... 
